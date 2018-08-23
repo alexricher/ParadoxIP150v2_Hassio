@@ -6,5 +6,6 @@
   "url": "https://github.com/alfredopironti/Paradox_IP150v2",
   "startup": "services",
   "boot": "auto",
-  "options": {}
+  "options": {},
+  "schema": {}
 }
