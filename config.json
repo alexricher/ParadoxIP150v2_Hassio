@@ -1,0 +1,10 @@
+{
+  "name": "Paradox IP150v2 MQTT Adapter Hassio",
+  "version": "0.1",
+  "slug": "paradox_ip150v2_mqtt_hassio",
+  "description": "Expose an MQTT interface for the Paradox IP150 web interface using the Software port",
+  "url": "https://github.com/alfredopironti/Paradox_IP150v2",
+  "startup": "services",
+  "boot": "auto",
+  "options": {}
+}
