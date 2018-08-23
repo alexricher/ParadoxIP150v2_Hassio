@@ -1,1 +1,1 @@
-python IP150-MQTTv2.py
+python3 IP150-MQTTv2.py
